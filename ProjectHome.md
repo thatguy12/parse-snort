@@ -1,0 +1,1 @@
+Parse::Snort is a perl module to read and write Snort rules.
